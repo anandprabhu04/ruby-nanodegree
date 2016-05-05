@@ -1,0 +1,8 @@
+1. I have been a mobile application developer primarily working on Android
+various cross-platform tools for more than 4 years. Am i taking the right
+decision in learning Ruby at this point in my career ?
+2. Does completing the Ruby nanodegree help me get a job in the current
+market ?
+3. Does learning Ruby help me to work independently as a freelancer ?
+4. How is the future for a Ruby and Ruby on Rails developer considering the
+current situation ?

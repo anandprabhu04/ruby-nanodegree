@@ -1,0 +1,13 @@
+Project Goals:
+==============
+
+- Develop a web and mobile application for farmers to sell their produce
+directly to the consumers without any middlemen
+- Develop a website to promote and educate natural and organic farming
+
+Career Goals:
+=============
+
+- Improve technical and soft skills
+- Grow into a Full-Stack developer
+- Work for an organization who promote free and open source software
