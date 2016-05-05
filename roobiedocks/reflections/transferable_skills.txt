@@ -1,0 +1,9 @@
+In my IT career i started out as a Mainframe application developer learning and
+working on languages like COBOL, FORTRAN with REXX, JCL and VSAM files. Along
+with IBM DB2. After 2 years i was bored of Mainframe since it became a routine
+job and moved into Mobile development with just basic knowledge of core Java alone.
+After that i have self-learned lots of frameworks and languages to improve
+myself as a developer.
+
+1. Self-Learning capacity
+2. Adaptability
